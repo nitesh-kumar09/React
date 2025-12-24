@@ -1,0 +1,7 @@
+what is JSX?
+=> JavaScript XML 
+=> it is a combination of html and JavaScript
+
+what is component?
+Component is nothing but it is a function that return JSX.
+
